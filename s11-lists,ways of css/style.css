@@ -1,0 +1,51 @@
+div{
+    display: inline-block;
+    background-color: #bb6cf3f7;
+    border: 5px double #55098b;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+.playerNames{
+    color: #0b3ba3;
+    font-size: 1.5rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aqua;
+    width: 250px;
+    border: 2px solid;
+    border-radius: 5px;
+    text-align: center;
+}
+.details{
+    background-color: #8caef6;
+    color: #031b87;
+    width: 210px;
+    border: 1px solid;
+    margin: 3px;
+    border-radius: 3px;
+    list-style-type: disc;
+}
+
+
+.batsMan{
+    list-style-image: url(./images/favicon-16x16.png);
+    font-size: 1.5rem;
+    background-color: #f98c10;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 2px solid #ef2d2d;
+    border-radius: 5px;
+}
+.bowler{
+    list-style-image: url(./images/favicon\ 16.jpg);
+    font-size: 1.5rem;
+    background-color: #ef2d2d;
+    border: 2px solid rgb(178, 14, 14);
+    border-radius: 5px;
+}
+#team{
+    background-color: #031b87;
+    padding-right: 20px;
+    border-radius: 10px;
+    margin-left: 300px;
+    border: 5px inset #e76c47;
+}
